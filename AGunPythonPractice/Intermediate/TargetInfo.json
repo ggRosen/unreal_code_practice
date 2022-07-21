@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AGunPythonPractice",
+			"Path": "E:\\github\\unreal_code_practice\\AGunPythonPractice\\Source\\AGunPythonPractice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AGunPythonPracticeEditor",
+			"Path": "E:\\github\\unreal_code_practice\\AGunPythonPractice\\Source\\AGunPythonPracticeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

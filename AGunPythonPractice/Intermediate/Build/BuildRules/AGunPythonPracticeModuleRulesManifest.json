@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\github\\unreal_code_practice\\AGunPythonPractice\\Source\\AGunPythonPractice\\AGunPythonPractice.Build.cs",
+		"E:\\github\\unreal_code_practice\\AGunPythonPractice\\Source\\AGunPythonPractice.Target.cs",
+		"E:\\github\\unreal_code_practice\\AGunPythonPractice\\Source\\AGunPythonPracticeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

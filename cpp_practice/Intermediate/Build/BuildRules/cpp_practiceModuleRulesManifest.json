@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\github\\unreal_code_practice\\cpp_practice\\Source\\cpp_practice\\cpp_practice.Build.cs",
+		"E:\\github\\unreal_code_practice\\cpp_practice\\Source\\cpp_practice.Target.cs",
+		"E:\\github\\unreal_code_practice\\cpp_practice\\Source\\cpp_practiceEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

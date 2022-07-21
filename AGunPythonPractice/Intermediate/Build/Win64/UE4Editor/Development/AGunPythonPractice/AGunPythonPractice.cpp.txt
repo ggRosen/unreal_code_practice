@@ -1,0 +1,2 @@
+E:\github\unreal_code_practice\AGunPythonPractice\Intermediate\Build\Win64\UE4Editor\Development\AGunPythonPractice\Definitions.AGunPythonPractice.h
+E:\github\unreal_code_practice\AGunPythonPractice\Source\AGunPythonPractice\AGunPythonPractice.h

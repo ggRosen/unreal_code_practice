@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AGunPythonPractice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{19587B1A-A2D8-49B9-81A1-1FAEF34E9F1E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AGunPythonPractice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AGunPythonPracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{053D8B7C-8270-4927-B8A1-258C732DFD9E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AGunPythonPractice">
+      <UniqueIdentifier>{9E0B2A7D-B101-4894-89C6-EC9438F8EBF8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AGunPythonPractice\AGunPythonPractice.Build.cs">
+      <Filter>Source\AGunPythonPractice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AGunPythonPractice\AGunPythonPractice.cpp">
+      <Filter>Source\AGunPythonPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AGunPythonPractice\AGunPythonPractice.h">
+      <Filter>Source\AGunPythonPractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AGunPythonPractice\AGunPythonPracticeGameModeBase.cpp">
+      <Filter>Source\AGunPythonPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AGunPythonPractice\AGunPythonPracticeGameModeBase.h">
+      <Filter>Source\AGunPythonPractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AGunPythonPractice\CppLib.cpp">
+      <Filter>Source\AGunPythonPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AGunPythonPractice\CppLib.h">
+      <Filter>Source\AGunPythonPractice</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AGunPythonPractice\ZFunctions.cpp">
+      <Filter>Source\AGunPythonPractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AGunPythonPractice\ZFunctions.h">
+      <Filter>Source\AGunPythonPractice</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

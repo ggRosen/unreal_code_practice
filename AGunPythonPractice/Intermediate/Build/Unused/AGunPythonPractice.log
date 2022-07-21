@@ -1,0 +1,16 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\github\unreal_code_practice).
+  Building AGunPythonPracticeEditor...
+  Using Visual Studio 2019 14.29.30145 toolchain (E:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] CppLib.cpp
+E:\github\unreal_code_practice\AGunPythonPractice\Source\AGunPythonPractice\CppLib.cpp(20): warning C4996: 'FAssetEditorManager::GetAllEditedAssets': Use the matching function on AssetEditorSubsystem instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+E:\github\unreal_code_practice\AGunPythonPractice\Source\AGunPythonPractice\CppLib.cpp(27): warning C4996: 'FAssetEditorManager::CloseAllEditorsForAsset': Use the matching function on AssetEditorSubsystem instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+E:\github\unreal_code_practice\AGunPythonPractice\Source\AGunPythonPractice\CppLib.cpp(97): warning C4996: UProperty has been renamed to FProperty Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+E:\github\unreal_code_practice\AGunPythonPractice\Source\AGunPythonPractice\CppLib.cpp(98): warning C4996: UProperty has been renamed to FProperty Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    [2/4] UE4Editor-AGunPythonPractice-0006.lib
+      正在创建库 E:\github\unreal_code_practice\AGunPythonPractice\Intermediate\Build\Win64\UE4Editor\Development\AGunPythonPractice\UE4Editor-AGunPythonPractice-0006.lib 和对象 E:\github\unreal_code_practice\AGunPythonPractice\Intermediate\Build\Win64\UE4Editor\Development\AGunPythonPractice\UE4Editor-AGunPythonPractice-0006.exp
+    [3/4] UE4Editor-AGunPythonPractice-0006.dll
+      正在创建库 E:\github\unreal_code_practice\AGunPythonPractice\Intermediate\Build\Win64\UE4Editor\Development\AGunPythonPractice\UE4Editor-AGunPythonPractice-0006.suppressed.lib 和对象 E:\github\unreal_code_practice\AGunPythonPractice\Intermediate\Build\Win64\UE4Editor\Development\AGunPythonPractice\UE4Editor-AGunPythonPractice-0006.suppressed.exp
+    [4/4] AGunPythonPracticeEditor.target
+  Total time in Parallel executor: 1.77 seconds
+  Total execution time: 2.33 seconds

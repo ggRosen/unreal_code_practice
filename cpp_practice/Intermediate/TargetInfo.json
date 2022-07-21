@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "cpp_practice",
+			"Path": "E:\\github\\unreal_code_practice\\cpp_practice\\Source\\cpp_practice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "cpp_practiceEditor",
+			"Path": "E:\\github\\unreal_code_practice\\cpp_practice\\Source\\cpp_practiceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
